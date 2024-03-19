@@ -8,7 +8,6 @@ I am a full stack developer (MERN), passionate to learn new technologies and bui
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ayushd175@gmail.com](mailto:ayushd175@gmail.com)
-* 🚀  I'm currently working on [Open Source Contribution](http://NA)
 * 🤝  I'm open to collaborating on open source, interesting projects
 
 <a href="https://www.github.com/ayushdiitr" target="_blank" rel="noreferrer"><img
